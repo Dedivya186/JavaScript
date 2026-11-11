@@ -1,0 +1,20 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 12345
+    },
+    {
+      "id": "88VQdLQXaj4",
+      "name": "chair",
+      "price": "100999"
+    },
+    {
+      "id": "JvC0yxDQ16w",
+      "name": "laptop",
+      "price": "80999"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
